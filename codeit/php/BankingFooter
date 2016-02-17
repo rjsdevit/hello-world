@@ -1,0 +1,139 @@
+		
+        
+        
+        
+        
+        <body>
+            <!-- First Florida Bank FFB-BIR-MPX Retargeting Pixel -->
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 934910713;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//empty.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="googleAdServices=0"/>
+</div>
+</noscript>
+
+        <!-- Begin Footer -->
+        <!-- First Florida Bank FFB-BIR-MPX Retargeting Pixel -->
+
+     <div id="global-news">
+
+		<div id="news-ticker">
+
+			
+
+			<div class="news-ticker-in"><marquee scrollamount="5"  direction="left" loop="-1"behavior="scroll" height="50"> 
+
+           <section>			<div class="textwidget"></font><font size="+1"</font>
+
+<img src="http://b.collective-media.net/seg/cm/um3q" width="1" height="1" />           
+
+</marquee></div>    <div id="footer" class="cw-footer clearfix">
+          <div class="cw-footer-inner">
+
+
+
+
+
+
+
+                <div class="content_area">
+                	<div class="four_col">
+                    	<div class="col float_left">
+                    		<div class="title"><a href="/personal">Personal Banking</a></div>
+                    		<div>
+                    			<ul>
+                    			<?php foreach ($navigationRecords as $record): ?>
+                        			<?php if($record['parentNum'] == 1) { ?>
+                        			<li><a href="http://www.firstflbank.com/personal/?page=<?php echo str_replace(" ", "-", $record['name']) ?>"><?php echo $record['name'] ?></a></li>
+                        			<?php } ?>
+                            	<?php endforeach; ?>
+                    			</ul>
+                    		</div>
+                    	</div>
+                    	<div class="col float_left">
+                    		<div class="title"><a href="/business/">Business Banking</a></div>
+                    		<div>
+                    			<ul>
+                    			<?php foreach ($navigationRecords as $record): ?>
+                        			<?php if($record['parentNum'] == 2) { ?>
+                        			<li><a href="http://www.firstflbank.com/business/?page=<?php echo str_replace(" ", "-", $record['name']) ?>"><?php echo $record['name'] ?></a></li>
+                        			<?php } ?>
+                            	<?php endforeach; ?>
+                    			<br></ul>
+                    		</div>
+                    	</div>
+                    	<div class="col float_left">
+                    		<div class="title"><a href="/lending/">Lending</a></div>
+                    		<div>
+                    			<ul>
+                    			<?php foreach ($navigationRecords as $record): ?>
+                        			<?php if($record['parentNum'] == 20) { ?>
+                        			<li><a href="http://www.firstflbank.com/lending/?page=<?php echo str_replace(" ", "-", $record['name']) ?>"><?php echo $record['name'] ?></a></li>
+                        			<?php } ?>
+                            	<?php endforeach; ?>
+                    			<br></ul>
+                    		</div>
+                    	</div>
+                    	<div class="col float_left" style="margin:16px; padding:0px; border:16px; width:160px">
+                    		<div class="title"><a href="/tools/">Banking Tools</a></div>
+                    		<div>
+                    			<ul>
+                    			<?php foreach ($navigationRecords as $record): ?>
+                        			<?php if($record['parentNum'] == 25) { ?>
+                        			<li><a href="http://www.firstflbank.com/tools/?page=<?php echo str_replace(" ", "-", $record['name']) ?>"><?php echo $record['name'] ?></a></li>
+                        			<?php } ?>
+                            	<?php endforeach; ?>
+                    			<br></ul>
+                    		</div>
+                    	</div>
+                        <div class="clear_fix">&nbsp;</div>
+                        <div class="idx_note"></div>
+                        </div>
+                    </div>
+
+
+
+
+
+
+
+
+
+
+
+        
+        <div class="float_left footerbottom"><a href="http://www.firstflbank.com/personal/">Personal Banking</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="./">Business Banking</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.firstflbank.com/lending/">Residential Lending</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.firstflbank.com/tools/">Banking Tools</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.firstflbank.com/about/">About Our Bank</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.firstflbank.com/news/">News &amp; Events</a><br />
+
+
+
+               <a href="http://www.firstflbank.com/about/?page=Locations">Locations</a> &nbsp;&nbsp;|&nbsp;&nbsp;<a href="/forms/PrivacyStatement2015.pdf">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.firstflbank.com/about/?page=ID-Theft">ID Theft</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.firstflbank.com/about/?page=USA-Patriot-Act">USA Patriot Act</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="../forms/RevisedADStatement.pdf" target="_blank">Annual Disclosure Statement</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.firstflbank.com/about/?page=Careers">Career Opportunities</a><br />
+
+
+
+        	<a href="http://www.firstflbank.com/about/?page=Contact-Us">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;<strong>Phone: 850.269.1201&nbsp;&nbsp;|&nbsp;&nbsp;FAX: 850.654.5098</strong>
+
+        	</div>
+
+
+        	<div class="float_right">
+        	        	
+  <div id="equal-icon"> </div>          <div class="float_right" style="text-align:right; margin-right: 0px;">&copy; 2013 First Florida Bank <br /><strong>Member FDIC</strong><br />
+        	</div>
+        	</div>
+            <div class="clear_fix"></div>
+        
+        </div>
+        </div>
+        <!-- End Footer -->
+        <?php include_once("analytics.php") ?>
+    </body>
