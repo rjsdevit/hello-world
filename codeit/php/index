@@ -1,0 +1,9 @@
+<?php
+
+	$curDir=basename(dirname(__FILE__));
+	include('_includes/connect.php');
+	include('_includes/prepage.php');
+	include('_includes/home.php');
+	include('_includes/analyticstracking.php')
+
+?>
